@@ -60,11 +60,12 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=heyyyshiva&theme=transparent&hide_border=true" alt="Streak Stats" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=heyyyshiva&show_icons=true&theme=transparent&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heyyyshiva&layout=compact&theme=transparent&hide_border=true&count_private=true" alt="Top Languages" />
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Rutvik-54&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Rutvik-54&theme=shadow_blue&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rutvik-54&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 </p>
 
 ---
@@ -83,16 +84,13 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=F7F7F7&vCenter=true&width=435&lines=Frontend+%2F+Backend+Developer;Clean+and+Minimal+Coder;Crafting+UI+and+APIs+with+Vibes;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
----
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Rutvik-54&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-## 🎯 Goals for 2025
-
-- 🚀 Master React, Next.js, and Express at scale  
-- ☁️ Dive deeper into Google Cloud & Appwrite  
-- 🧠 Contribute regularly to open source  
-- 🎥 Start a YouTube channel about dev projects  
-- 🏆 Build 5+ full-stack products from scratch  
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=Rutvik-54&icon=0&color=0)](https://visitcount.itsvg.in)
 
 > 💬 _"Code it till you own it."_ — Rutvik Pawar
