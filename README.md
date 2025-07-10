@@ -2,7 +2,7 @@
 <p align="center"><em>Frontend Dev • Backend Engineer • Clean Coder</em></p>
 
 <p align="center">
-  <img src=".gif" width="400" alt="Coding GIF"/>
+  <img src="jin woo.gif" width="400" alt="Coding GIF"/>
 </p>
 
 <h2 align="center">📬 Connect with Me</h2>
