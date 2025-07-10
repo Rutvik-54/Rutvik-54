@@ -14,7 +14,7 @@
 
 ---
 
-### ⚡ Who is SHIVA?
+### ⚡ Who is RUTVIK?
 
 🚀 Just a curious mind building the frontiers of the web one pixel at a time.  
 🎨 I code like I design — clean, smooth, and with a lot of good vibes.  
