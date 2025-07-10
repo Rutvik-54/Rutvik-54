@@ -15,7 +15,7 @@
 
 ---
 
-### ⚡ Who is RUTVIK?
+<h2 align="center">⚡ Who is RUTVIK?</h2>
 
 <p align="center">
 🚀 A tech enthusiast shaping the web from both ends — frontend to backend. <br/>
